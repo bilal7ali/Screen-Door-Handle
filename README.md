@@ -1,6 +1,6 @@
 # 3D-Printed-Screen-Door-Handle
 
-This is a custom-designed and 3D printed screen door handle to replace a previously broken one. It was designed with several limitations taken into account such as size and measurements. 
+This is a custom-designed and 3D printed screen door handle to replace a previously broken one. It was designed with several limitations taken into account such as screw size and pre-set measurements. 
 
 ## Images
 
